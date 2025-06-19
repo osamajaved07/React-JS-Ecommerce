@@ -1,9 +1,10 @@
-Enjoy the Free code + Assets 😍
+# Shopsy
 
-  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+A modern eCommerce landing page built with React and Tailwind CSS.
 
+## 🚀 Features
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive layout
+- Framer Motion animations
+- Clean and minimal design
+- Fully customizable sections
