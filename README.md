@@ -1,4 +1,4 @@
-# Shopsy
+# Picksy
 
 A modern eCommerce landing page built with React and Tailwind CSS.
 
@@ -8,3 +8,4 @@ A modern eCommerce landing page built with React and Tailwind CSS.
 - Framer Motion animations
 - Clean and minimal design
 - Fully customizable sections
+- Light and Dark mode

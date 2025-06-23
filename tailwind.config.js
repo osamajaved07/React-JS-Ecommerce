@@ -7,6 +7,8 @@ export default {
       colors: {
         primary: "#06b6d4",
         secondary: "#0891b2",
+        light: "#f1f5f9",
+        dark: "#1e293b",
       },
       container: {
         center: true,
